@@ -1,6 +1,6 @@
 # delete-ecs-logs
 1. **Set up AWS CLI**
-   Ensure you have the AWS CLI installed and configured with the necessary permissions to delete CloudWatch log groups. [[2]](https://docs.aws.amazon.com/solutions/latest/video-on-demand-on-aws-foundation/deleting-the-cloudwatch-logs.html)
+   Ensure you have the AWS CLI installed and configured with the necessary permissions to delete CloudWatch log groups. [[offical_doc]](https://docs.aws.amazon.com/solutions/latest/video-on-demand-on-aws-foundation/deleting-the-cloudwatch-logs.html)
 
 2. **Create the shell script**
    Create a new file with a .sh extension (e.g., delete_ecs_logs.sh) and add the following content:
